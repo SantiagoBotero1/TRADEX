@@ -22,7 +22,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(39, 167, 45, 0.269) 0%, rgba(0, 0, 0, 0.611) 100%), url(/img/Barra_stonk.jpg);
+    background-image: linear-gradient(to top, rgba(39, 167, 45, 0.269) 0%, rgba(0, 0, 0, 0.611) 100%), url(../img/Barra_stonk.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
